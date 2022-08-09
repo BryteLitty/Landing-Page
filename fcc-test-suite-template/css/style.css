@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    position: fixed;
+    display: flex;
+}
+
+
+
+@media {
+    
+    nav{
+        margin: 10px auto;
+        padding: 0 15px;
+        display: flex;
+    }
+}
